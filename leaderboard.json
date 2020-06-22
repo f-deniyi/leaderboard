@@ -1,0 +1,58 @@
+let data=[
+  {
+    "username":"f3mmie",
+    "points":20
+  },
+  {
+    "username":"femi",
+    "points":13
+  },
+  {
+    "username":"john",
+    "points":12
+  },
+  {
+    "username":"sam",
+    "points":14
+  },
+  {
+    "username":"Ay",
+    "points":11
+  },
+  {
+    "username":"busayo",
+    "points":2
+  },
+  {
+    "username":"oluwa",
+    "points":1
+  },
+  {
+    "username":"kehinde",
+    "points":3
+  },  {
+    "username":"alliya",
+    "points":5
+  },  {
+    "username":"code-dash",
+    "points":19
+  },  {
+    "username":"omo",
+    "points":1
+  },  {
+    "username":"lex",
+    "points":10
+  },  {
+    "username":"iwa",
+    "points":16
+  },  {
+    "username":"kunle",
+    "points":9
+  },  {
+    "username":"samson",
+    "points":14
+  },  {
+    "username":"milo",
+    "points":2
+  },
+]
