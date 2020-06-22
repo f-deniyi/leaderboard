@@ -1,4 +1,4 @@
-let data=[
+[
   {
     "username":"f3mmie",
     "points":20
@@ -37,7 +37,7 @@ let data=[
     "username":"code-dash",
     "points":19
   },  {
-    "username":"omo",
+    "username":"omoh",
     "points":1
   },  {
     "username":"lex",
@@ -52,7 +52,7 @@ let data=[
     "username":"samson",
     "points":14
   },  {
-    "username":"milo",
+    "username":"james",
     "points":2
-  },
+  }
 ]
