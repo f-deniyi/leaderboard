@@ -90,13 +90,20 @@ li{
   cursor: pointer;
 }
 
-.medal{
-  animation: float 3s ease-out infinite;
+.medal {
+	animation: flip 4s linear;
 }
-@keyframes float {
-  50% {
-     transform: translate(0, 20px);
-  }
+@keyframes flip {
+	0% {
+		transform: rotateY(10deg);
+	}
+50%{
+  transform: rotateY(360deg);
+}
+	100% {
+		transform: rotateY(50deg);
+	
+	}
 }
 
 @media(max-width:600px) {
